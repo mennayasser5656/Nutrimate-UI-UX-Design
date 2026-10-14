@@ -22,6 +22,7 @@ Nutrimate is a mobile nutrition app UI/UX design project created in Figma to hel
 The project includes mobile app UI screens and an interactive Figma prototype demonstrating the app's features and navigation.
 
 [**Explore the Nutrimate Figma Design & Prototype**](https://www.figma.com/design/BS2zcRddGCIX7TRglJ4idL/Nutrimate-%E2%80%93-Nutrition---Meal-Tracking-App?node-id=0-1&t=7hyBfpGTQvUhNfTm-1)
+
 [**Sketching**](https://www.figma.com/board/MZBRuA2W2bU7Crbt0txVgV/Untitled?node-id=0-1&t=VD2UZkyRg00OEjg8-1)
 
 ## Tools Used
