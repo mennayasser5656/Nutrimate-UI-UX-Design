@@ -1,13 +1,30 @@
-# Nutrimate – Nutrition App
+# Nutrimate – Nutrition & Meal Tracking App
 
 ## About the Project
 
-Nutrimate is a nutrition mobile app UI/UX design project created in Figma. It includes mobile app screens and an interactive prototype demonstrating the user journey and navigation.
+Nutrimate is a mobile nutrition app UI/UX design project created in Figma to help users track their nutrition, discover healthy content, and build healthier habits.
 
-## Figma Design & Prototype
+## Key Features
 
-[Explore the Nutrimate Design and Interactive Prototype](https://www.figma.com/design/BS2zcRddGCIX7TRglJ4idL/Nutrimate-%E2%80%93-Nutrition---Meal-Tracking-App?node-id=0-1&t=7hyBfpGTQvUhNfTm-1)
+- **Calorie Tracking:** Track daily calorie intake and monitor progress toward nutrition goals.
+- **Food Logging:** Log meals using food scanning or voice input.
+- **Macronutrient Tracking:** Monitor protein, carbohydrates, and fats.
+- **Water Tracking:** Record daily water intake and monitor hydration goals.
+- **Weight Tracking:** Log body weight and follow progress over time.
+- **Discover:** Explore nutrition tips, healthy recipes, and useful content.
+- **Feed:** View and share nutrition-related posts and updates.
+- **Groups:** Join communities, interact with others, and share healthy lifestyle goals.
+- **Friends:** Connect with friends, encourage one another, and share progress.
+- **Courses:** Explore educational courses about nutrition and healthy habits.
+
+## Design & Prototype
+
+The project includes mobile app UI screens and an interactive Figma prototype demonstrating the app's features and navigation.
+
+[**Explore the Nutrimate Figma Design & Prototype**](https://www.figma.com/design/BS2zcRddGCIX7TRglJ4idL/Nutrimate-%E2%80%93-Nutrition---Meal-Tracking-App?node-id=0-1&t=7hyBfpGTQvUhNfTm-1)
 
 ## Tools Used
 
 - Figma
+- UI/UX Design
+- Prototyping
